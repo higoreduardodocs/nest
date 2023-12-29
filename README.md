@@ -2,8 +2,6 @@
 
 - Todo List Krp Ajay: [todo-list/krp-ajay](https://github.com/higoreduardodocs/nest-application/tree/todo-list/krp-ajay)
 
-## :unicorn: Author
-
 ## Documentação:
 
 <details>
@@ -19,6 +17,8 @@
     ```
 
 </details>
+
+## :unicorn: Author
 
 <table>
   <tr>
