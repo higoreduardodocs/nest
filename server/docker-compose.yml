@@ -1,0 +1,15 @@
+version: '3.0'
+
+services:
+  mysql:
+    container_name: mysql
+    image: mysql:latest
+    restart: always
+    environment:
+      MYSQL_USER: admin
+      MYSQL_PASSWORD: admin
+      MYSQL_ROOT_PASSWORD: admin
+      MYSQL_DATABASE: db
+    ports:
+      - 3308:3306
+    command: --default-authentication-plugin=mysql_native_password

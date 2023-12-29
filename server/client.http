@@ -1,0 +1,26 @@
+@endpoint = http://localhost:3000/todos
+
+### GET /
+GET {{ endpoint }} HTTP/1.1
+
+### GET /:id
+GET {{ endpoint }}/1 HTTP/1.1
+
+### POST /
+POST {{ endpoint }} HTTP/1.1
+Content-Type: application/json
+
+{
+  "title": "Todo"
+}
+
+### PUT /:id
+PUT {{ endpoint }}/1 HTTP/1.1
+Content-Type: application/json
+
+{
+  "title": "Todo PUT"
+}
+
+### DELETE /:id
+DELETE {{ endpoint }}/1 HTTP/1.1
