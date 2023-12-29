@@ -4,6 +4,22 @@
 
 ## :unicorn: Author
 
+## Documentação:
+
+<details>
+<summary>:keyboard: Descrição</summary>
+
+**:mailbox_with_no_mail: Comandos**
+
+    ```
+    nest new <project-name>
+    nest generate module <module-name>
+    nest generate service <service-name>
+    nest generate controller <controller-name>
+    ```
+
+</details>
+
 <table>
   <tr>
     <td align="center">
