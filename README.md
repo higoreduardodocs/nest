@@ -1,34 +1,9 @@
 # :desktop_computer: Nest Application
 
-- Todo List Krp Ajay: [todo-list/krp-ajay](https://github.com/higoreduardodocs/nest-application/tree/todo-list/krp-ajay)
+Applications developed in Nest and other auxiliary technologies
 
-## Documentação:
+> Server App:
 
-<details>
-<summary>:keyboard: Descrição</summary>
+- Todo list: [server-app/todo-list](https://github.com/higoreduardodocs/next/tree/ssr-app/anime-vault)
 
-**:mailbox_with_no_mail: Comandos**
-
-    ```
-    nest new <project-name>
-    nest generate module <module-name>
-    nest generate service <service-name>
-    nest generate controller <controller-name>
-    ```
-
-</details>
-
-## :unicorn: Author
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/higoreduardodocs">
-        <img src="https://avatars.githubusercontent.com/u/143645475?v=4" width="100px;" alt="Foto do Higor Eduardo Docs no GitHub"/><br>
-        <sub>
-          <b>Higor Eduardo Docs</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
+> :copyright: [Higor Eduardo Docs](https://github.com/higoreduardodocs)
