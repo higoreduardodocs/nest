@@ -1,11 +1,15 @@
-# :desktop_computer: Todo List Application
+Server application developed in Nest
 
-<img src="./assets/cover.png" alt="Cover projeto" />
+> :fire: Development
 
-## :fire: Run
+```
+  cd server && yarn && yarn migrate dev && yarn start:dev
+```
 
-- Development (Port 3000): `yarn start:dev`
+> :gear: Environment Variables
 
-## :triangular_flag_on_post: Environment Variables
+- Database URL: DATABASE_URL `server`
 
-- Database URL: `DATABASE_URL`
+> :thought_balloon: `Krp Ajay`
+
+![Cover](./assets/cover.png)
