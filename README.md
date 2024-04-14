@@ -1,4 +1,4 @@
-Server application developed in Nest
+Server application developed in Nest and MySQL
 
 > :fire: Development
 
